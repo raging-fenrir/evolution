@@ -1,14 +1,14 @@
 #pragma once
 #include "Population.h"
 
-class Rat : Population
+class Rat : public Population
 {
   public:
     Rat(class System* system);
 
-    void  initialize  ();
+    void  initialize  (int);
     void  reproduce   ();
-
+    
   protected:
 };
 

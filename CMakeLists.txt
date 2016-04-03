@@ -11,7 +11,7 @@ set(SOURCES
   Population/Population.cpp
   Population/Rat.cpp
   Pheno/Pheno.cpp
-  Pheno/RatFur.cpp
+  Pheno/Fur.cpp
   System/System.cpp
   )
 
@@ -21,7 +21,7 @@ set(HEADERS
   Population/Population.h
   Population/Rat.h
   Pheno/Pheno.h
-  Pheno/RatFur.h
+  Pheno/Fur.h
   System/System.h
   )
 

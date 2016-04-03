@@ -5,8 +5,6 @@ System::System()
 
 void System::naturalSelect()
 {
-
-
 }
 
 void System::add_population (class Population* population)
